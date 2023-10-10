@@ -1,0 +1,1339 @@
+.tlds-sprite {
+    font-size: 10px;
+}
+
+.tlds-sprite:before {
+    content:' ';
+    vertical-align:middle;
+    display: inline-block;
+    background-image: url("../images/sprite-images/tlds-sprite.svg?time=1688137003524");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+
+
+  .tlds-sprite.academy:before {
+      background-position: -0.2em -0.2em;
+      width: 4.379em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.ae:before {
+      background-position: -0.2em -2.6em;
+      width: 4.958em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.agency:before {
+      background-position: -0.2em -5em;
+      width: 10.129999999999999em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.asia:before {
+      background-position: -0.2em -7.4em;
+      width: 4.86em;
+      height: 1.98em;
+  }
+
+
+
+
+  .tlds-sprite.at:before {
+      background-position: -0.2em -9.799999999999999em;
+      width: 5.377000000000001em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.bargains:before {
+      background-position: -0.2em -12.2em;
+      width: 9.583em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.be:before {
+      background-position: -0.2em -14.6em;
+      width: 3.6100000000000003em;
+      height: 1.9899999999999998em;
+  }
+
+
+
+
+  .tlds-sprite.biz:before {
+      background-position: -0.2em -17em;
+      width: 4.8549999999999995em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.business:before {
+      background-position: -0.2em -19.4em;
+      width: 9.020999999999999em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.ca:before {
+      background-position: -0.2em -21.8em;
+      width: 4.3em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.cafe:before {
+      background-position: -0.2em -24.2em;
+      width: 3.8869999999999996em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.capital:before {
+      background-position: -0.2em -26.599999999999998em;
+      width: 10.126000000000001em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.cc:before {
+      background-position: -0.2em -29em;
+      width: 4.65em;
+      height: 1.9780000000000002em;
+  }
+
+
+
+
+  .tlds-sprite.center:before {
+      background-position: -0.2em -31.4em;
+      width: 10.455em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.ch:before {
+      background-position: -0.2em -33.800000000000004em;
+      width: 2.8810000000000002em;
+      height: 1.9899999999999998em;
+  }
+
+
+
+
+  .tlds-sprite.cheap:before {
+      background-position: -0.2em -36.2em;
+      width: 7.404000000000001em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.church:before {
+      background-position: -0.2em -38.6em;
+      width: 11.263em;
+      height: 2.0010000000000003em;
+  }
+
+
+
+
+  .tlds-sprite.club:before {
+      background-position: -0.2em -41.1em;
+      width: 7.2620000000000005em;
+      height: 2.0100000000000002em;
+  }
+
+
+
+
+  .tlds-sprite.cn:before {
+      background-position: -0.2em -43.6em;
+      width: 3.245em;
+      height: 1.998em;
+  }
+
+
+
+
+  .tlds-sprite.co:before {
+      background-position: -0.2em -46em;
+      width: 4.34em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.co-il:before {
+      background-position: -0.2em -48.400000000000006em;
+      width: 5.46em;
+      height: 1.9899999999999998em;
+  }
+
+
+
+
+  .tlds-sprite.co-nz:before {
+      background-position: -0.2em -50.800000000000004em;
+      width: 6.102000000000001em;
+      height: 2.0010000000000003em;
+  }
+
+
+
+
+  .tlds-sprite.co-uk:before {
+      background-position: -0.2em -53.300000000000004em;
+      width: 6.412999999999999em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.co-za:before {
+      background-position: -0.2em -55.7em;
+      width: 8.917em;
+      height: 2.0010000000000003em;
+  }
+
+
+
+
+  .tlds-sprite.coach:before {
+      background-position: -0.2em -58.2em;
+      width: 6.589em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.codes:before {
+      background-position: -0.2em -60.6em;
+      width: 10.482em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.com:before {
+      background-position: -0.2em -63em;
+      width: 7.633em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.com-au:before {
+      background-position: -0.2em -65.4em;
+      width: 10.267em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.com-cn:before {
+      background-position: -0.2em -67.8em;
+      width: 6.57em;
+      height: 1.998em;
+  }
+
+
+
+
+  .tlds-sprite.com-mx:before {
+      background-position: -0.2em -70.2em;
+      width: 6.352000000000001em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.com-tw:before {
+      background-position: -0.2em -72.60000000000001em;
+      width: 9.696em;
+      height: 1.9940000000000002em;
+  }
+
+
+
+
+  .tlds-sprite.company:before {
+      background-position: -0.2em -75em;
+      width: 10.675em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.computer:before {
+      background-position: -0.2em -77.4em;
+      width: 11.148em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.consulting:before {
+      background-position: -0.2em -79.8em;
+      width: 6.840999999999999em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.cool:before {
+      background-position: -0.2em -82.2em;
+      width: 6.925em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.coupons:before {
+      background-position: -0.2em -84.60000000000001em;
+      width: 10.099em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.de:before {
+      background-position: -0.2em -87em;
+      width: 3.224em;
+      height: 1.996em;
+  }
+
+
+
+
+  .tlds-sprite.deals:before {
+      background-position: -0.2em -89.4em;
+      width: 8.459999999999999em;
+      height: 2.013em;
+  }
+
+
+
+
+  .tlds-sprite.digital:before {
+      background-position: -0.2em -91.9em;
+      width: 8.003em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.dk:before {
+      background-position: -0.2em -94.3em;
+      width: 3.2090000000000005em;
+      height: 1.9940000000000002em;
+  }
+
+
+
+
+  .tlds-sprite.education:before {
+      background-position: -0.2em -96.7em;
+      width: 10.651em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.email:before {
+      background-position: -0.2em -99.10000000000001em;
+      width: 7.864em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.engineering:before {
+      background-position: -0.2em -101.5em;
+      width: 15.286000000000001em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.enterprises:before {
+      background-position: -0.2em -103.9em;
+      width: 12.298em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.es:before {
+      background-position: -0.2em -106.3em;
+      width: 3.992em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.estate:before {
+      background-position: -0.2em -108.7em;
+      width: 7.1659999999999995em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.eu:before {
+      background-position: -0.2em -111.10000000000001em;
+      width: 4.5329999999999995em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.events:before {
+      background-position: -0.2em -113.5em;
+      width: 7.976000000000001em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.expert:before {
+      background-position: -0.2em -115.9em;
+      width: 8.83em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.express:before {
+      background-position: -0.2em -118.3em;
+      width: 7.939em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.family:before {
+      background-position: -0.2em -120.7em;
+      width: 6.12em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.farm:before {
+      background-position: -0.2em -123.10000000000001em;
+      width: 6.526000000000001em;
+      height: 1.9789999999999999em;
+  }
+
+
+
+
+  .tlds-sprite.fi:before {
+      background-position: -0.2em -125.5em;
+      width: 2.451em;
+      height: 1.97em;
+  }
+
+
+
+
+  .tlds-sprite.fitness:before {
+      background-position: -0.2em -127.9em;
+      width: 10.529em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.forsale:before {
+      background-position: -0.2em -130.29999999999998em;
+      width: 9.372em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.foundation:before {
+      background-position: -0.2em -132.7em;
+      width: 11.049em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.fr:before {
+      background-position: -0.2em -135.1em;
+      width: 2.0170000000000003em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.fun:before {
+      background-position: -0.2em -137.5em;
+      width: 3.747em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.fyi:before {
+      background-position: -0.2em -139.89999999999998em;
+      width: 7.662999999999999em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.games:before {
+      background-position: -0.2em -142.29999999999998em;
+      width: 7.252em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.gr:before {
+      background-position: -0.2em -144.7em;
+      width: 4.34em;
+      height: 2.0010000000000003em;
+  }
+
+
+
+
+  .tlds-sprite.group:before {
+      background-position: -0.2em -147.2em;
+      width: 7.1em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.guru:before {
+      background-position: -0.2em -149.6em;
+      width: 7.321em;
+      height: 1.984em;
+  }
+
+
+
+
+  .tlds-sprite.host:before {
+      background-position: -0.2em -152em;
+      width: 6em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.idv-tw:before {
+      background-position: -0.2em -154.39999999999998em;
+      width: 8.443999999999999em;
+      height: 1.9940000000000002em;
+  }
+
+
+
+
+  .tlds-sprite.ie:before {
+      background-position: -0.2em -156.79999999999998em;
+      width: 2.8899999999999997em;
+      height: 1.9899999999999998em;
+  }
+
+
+
+
+  .tlds-sprite.in:before {
+      background-position: -0.2em -159.2em;
+      width: 2.94em;
+      height: 1.94em;
+  }
+
+
+
+
+  .tlds-sprite.info:before {
+      background-position: -0.2em -161.6em;
+      width: 4.16em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.international:before {
+      background-position: -0.2em -164em;
+      width: 17.083000000000002em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.irish:before {
+      background-position: -0.2em -166.39999999999998em;
+      width: 4.2700000000000005em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.it:before {
+      background-position: -0.2em -168.79999999999998em;
+      width: 2.38em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.jp:before {
+      background-position: -0.2em -171.2em;
+      width: 2.408em;
+      height: 1.9899999999999998em;
+  }
+
+
+
+
+  .tlds-sprite.land:before {
+      background-position: -0.2em -173.6em;
+      width: 7.712000000000001em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.life:before {
+      background-position: -0.2em -176em;
+      width: 4.286em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.ltd:before {
+      background-position: -0.2em -178.39999999999998em;
+      width: 5.598em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.marketing:before {
+      background-position: -0.2em -180.79999999999998em;
+      width: 9.998000000000001em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.me:before {
+      background-position: -0.2em -183.2em;
+      width: 3.121em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.me-uk:before {
+      background-position: -0.2em -185.6em;
+      width: 7.76em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.media:before {
+      background-position: -0.2em -188em;
+      width: 5.756em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.mobi:before {
+      background-position: -0.2em -190.39999999999998em;
+      width: 4.83em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.money:before {
+      background-position: -0.2em -192.79999999999998em;
+      width: 4.406000000000001em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.mx:before {
+      background-position: -0.2em -195.2em;
+      width: 3.28em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.name:before {
+      background-position: -0.2em -197.6em;
+      width: 9.61em;
+      height: 2.0010000000000003em;
+  }
+
+
+
+
+  .tlds-sprite.net:before {
+      background-position: -0.2em -200.1em;
+      width: 4.706em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.net-au:before {
+      background-position: -0.2em -202.5em;
+      width: 13.466999999999999em;
+      height: 2.008em;
+  }
+
+
+
+
+  .tlds-sprite.net-cn:before {
+      background-position: -0.2em -205em;
+      width: 5.968em;
+      height: 1.998em;
+  }
+
+
+
+
+  .tlds-sprite.net-nz:before {
+      background-position: -0.2em -207.39999999999998em;
+      width: 6.984em;
+      height: 2.0010000000000003em;
+  }
+
+
+
+
+  .tlds-sprite.network:before {
+      background-position: -0.2em -209.89999999999998em;
+      width: 11.043000000000001em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.news:before {
+      background-position: -0.2em -212.29999999999998em;
+      width: 10.003em;
+      height: 1.975em;
+  }
+
+
+
+
+  .tlds-sprite.ninja:before {
+      background-position: -0.2em -214.7em;
+      width: 6.529000000000001em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.nl:before {
+      background-position: -0.2em -217.1em;
+      width: 2.46em;
+      height: 2.0100000000000002em;
+  }
+
+
+
+
+  .tlds-sprite.no:before {
+      background-position: -0.2em -219.6em;
+      width: 4.453em;
+      height: 1.996em;
+  }
+
+
+
+
+  .tlds-sprite.nu:before {
+      background-position: -0.2em -222em;
+      width: 3.4299999999999997em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.online:before {
+      background-position: -0.2em -224.39999999999998em;
+      width: 7.734999999999999em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.org:before {
+      background-position: -0.2em -226.79999999999998em;
+      width: 5.514em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.org-au:before {
+      background-position: -0.2em -229.2em;
+      width: 11.804em;
+      height: 1.988em;
+  }
+
+
+
+
+  .tlds-sprite.org-cn:before {
+      background-position: -0.2em -231.6em;
+      width: 6.0680000000000005em;
+      height: 1.998em;
+  }
+
+
+
+
+  .tlds-sprite.org-nz:before {
+      background-position: -0.2em -234em;
+      width: 7.118em;
+      height: 2.0010000000000003em;
+  }
+
+
+
+
+  .tlds-sprite.org-uk:before {
+      background-position: -0.2em -236.5em;
+      width: 6.412999999999999em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.partners:before {
+      background-position: -0.2em -238.89999999999998em;
+      width: 11.273em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.party:before {
+      background-position: -0.2em -241.29999999999998em;
+      width: 5.479em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.ph:before {
+      background-position: -0.2em -243.7em;
+      width: 11.786em;
+      height: 2.0100000000000002em;
+  }
+
+
+
+
+  .tlds-sprite.photography:before {
+      background-position: -0.2em -246.2em;
+      width: 14.012em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.photos:before {
+      background-position: -0.2em -248.6em;
+      width: 10.449em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.pl:before {
+      background-position: -0.2em -251em;
+      width: 4.442em;
+      height: 2.0010000000000003em;
+  }
+
+
+
+
+  .tlds-sprite.plus:before {
+      background-position: -0.2em -253.5em;
+      width: 5.91em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.press:before {
+      background-position: -0.2em -255.89999999999998em;
+      width: 5.048em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.pro:before {
+      background-position: -0.2em -258.3em;
+      width: 4.583em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.productions:before {
+      background-position: -0.2em -260.7em;
+      width: 13.116em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.properties:before {
+      background-position: -0.2em -263.09999999999997em;
+      width: 12.049em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.pt:before {
+      background-position: -0.2em -265.5em;
+      width: 2.122em;
+      height: 1.9949999999999999em;
+  }
+
+
+
+
+  .tlds-sprite.qa:before {
+      background-position: -0.2em -267.9em;
+      width: 3.9829999999999997em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.recipes:before {
+      background-position: -0.2em -270.3em;
+      width: 9.713em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.rentals:before {
+      background-position: -0.2em -272.7em;
+      width: 8.744em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.repair:before {
+      background-position: -0.2em -275.09999999999997em;
+      width: 3.693em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.rocks:before {
+      background-position: -0.2em -277.5em;
+      width: 9.248000000000001em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.ru:before {
+      background-position: -0.2em -279.9em;
+      width: 6.175999999999999em;
+      height: 2.025em;
+  }
+
+
+
+
+  .tlds-sprite.run:before {
+      background-position: -0.2em -282.4em;
+      width: 5.296em;
+      height: 2.004em;
+  }
+
+
+
+
+  .tlds-sprite.sale:before {
+      background-position: -0.2em -284.9em;
+      width: 4.259em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.school:before {
+      background-position: -0.2em -287.3em;
+      width: 10.65em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.se:before {
+      background-position: -0.2em -289.7em;
+      width: 4.6em;
+      height: 2.011em;
+  }
+
+
+
+
+  .tlds-sprite.services:before {
+      background-position: -0.2em -292.2em;
+      width: 10.267em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.site:before {
+      background-position: -0.2em -294.59999999999997em;
+      width: 5.242em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.social:before {
+      background-position: -0.2em -297em;
+      width: 6.69em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.software:before {
+      background-position: -0.2em -299.4em;
+      width: 14.440000000000001em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.solutions:before {
+      background-position: -0.2em -301.8em;
+      width: 10.267em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.space:before {
+      background-position: -0.2em -304.2em;
+      width: 7.15em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.store:before {
+      background-position: -0.2em -306.59999999999997em;
+      width: 6.742em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.support:before {
+      background-position: -0.2em -309em;
+      width: 8.812999999999999em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.systems:before {
+      background-position: -0.2em -311.4em;
+      width: 9.831999999999999em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.team:before {
+      background-position: -0.2em -313.8em;
+      width: 7.821em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.tech:before {
+      background-position: -0.2em -316.2em;
+      width: 5.4079999999999995em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.technology:before {
+      background-position: -0.2em -318.59999999999997em;
+      width: 12.613999999999999em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.today:before {
+      background-position: -0.2em -321em;
+      width: 5.647em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.top:before {
+      background-position: -0.2em -323.4em;
+      width: 3.915em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.tv:before {
+      background-position: -0.2em -325.8em;
+      width: 3.915em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.tw:before {
+      background-position: -0.2em -328.2em;
+      width: 4.84em;
+      height: 1.9929999999999999em;
+  }
+
+
+
+
+  .tlds-sprite.uk:before {
+      background-position: -0.2em -330.59999999999997em;
+      width: 3.2049999999999996em;
+      height: 1.986em;
+  }
+
+
+
+
+  .tlds-sprite.us:before {
+      background-position: -0.2em -333em;
+      width: 3.283em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.we-bs:before {
+      background-position: -0.2em -335.4em;
+      width: 8.654em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.website:before {
+      background-position: -0.2em -337.8em;
+      width: 8.654em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.wine:before {
+      background-position: -0.2em -340.2em;
+      width: 4.398em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.works:before {
+      background-position: -0.2em -342.59999999999997em;
+      width: 8.584999999999999em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.world:before {
+      background-position: -0.2em -345em;
+      width: 8.964em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.ws:before {
+      background-position: -0.2em -347.4em;
+      width: 5.66em;
+      height: 1.98em;
+  }
+
+
+
+
+  .tlds-sprite.xyz:before {
+      background-position: -0.2em -349.8em;
+      width: 3.2em;
+      height: 2em;
+  }
+
+
+
+
+  .tlds-sprite.zone:before {
+      background-position: -0.2em -352.2em;
+      width: 6.172em;
+      height: 2em;
+  }
+
+
+
+
+

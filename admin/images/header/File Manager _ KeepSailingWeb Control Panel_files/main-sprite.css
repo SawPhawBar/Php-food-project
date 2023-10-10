@@ -1,0 +1,889 @@
+.main-sprite {
+    font-size: 10px;
+}
+
+.main-sprite:before {
+    content:' ';
+    vertical-align:middle;
+    display: inline-block;
+    background-image: url("../images/sprite-images/main-sprite.svg?time=1689236896776");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+
+
+  .main-sprite.accounts-manager-icon:before {
+      background-position: -0.2em -0.2em;
+      width: 6.4em;
+      height: 6.4em;
+  }
+
+
+
+
+  .main-sprite.affiliates-icon:before {
+      background-position: -0.2em -7em;
+      width: 6.4em;
+      height: 6.4em;
+  }
+
+
+
+
+  .main-sprite.amex-icon:before {
+      background-position: -0.2em -13.799999999999999em;
+      width: 6.49em;
+      height: 4em;
+  }
+
+
+
+
+  .main-sprite.ar-icon:before {
+      background-position: -0.2em -18.2em;
+      width: 1.7em;
+      height: 1.2em;
+  }
+
+
+
+
+  .main-sprite.backups-icon:before {
+      background-position: -0.2em -19.8em;
+      width: 7em;
+      height: 6.8em;
+  }
+
+
+
+
+  .main-sprite.bad-icon:before {
+      background-position: -0.2em -27em;
+      width: 6.2219999999999995em;
+      height: 6.2219999999999995em;
+  }
+
+
+
+
+  .main-sprite.benchmark-icon:before {
+      background-position: -0.2em -33.7em;
+      width: 6.757em;
+      height: 6.5em;
+  }
+
+
+
+
+  .main-sprite.bg-icon:before {
+      background-position: -0.2em -40.6em;
+      width: 1.7em;
+      height: 1.2em;
+  }
+
+
+
+
+  .main-sprite.calendar-icon:before {
+      background-position: -0.2em -42.2em;
+      width: 13em;
+      height: 11.4em;
+  }
+
+
+
+
+  .main-sprite.calendar-top-img:before {
+      background-position: -0.2em -54em;
+      width: 39.6em;
+      height: 10.244em;
+  }
+
+
+
+
+  .main-sprite.cash-icon:before {
+      background-position: -0.2em -64.7em;
+      width: 2.7em;
+      height: 2.5em;
+  }
+
+
+
+
+  .main-sprite.checkout-icon:before {
+      background-position: -0.2em -67.60000000000001em;
+      width: 10.7em;
+      height: 2.5em;
+  }
+
+
+
+
+  .main-sprite.clickbank-icon:before {
+      background-position: -0.2em -70.5em;
+      width: 11.4em;
+      height: 2.5em;
+  }
+
+
+
+
+  .main-sprite.cloudflare-icon:before {
+      background-position: -0.2em -73.4em;
+      width: 6.4em;
+      height: 6.4em;
+  }
+
+
+
+
+  .main-sprite.cns-icon:before {
+      background-position: -0.2em -80.2em;
+      width: 1.7em;
+      height: 1.2em;
+  }
+
+
+
+
+  .main-sprite.cnt-icon:before {
+      background-position: -0.2em -81.8em;
+      width: 1.7em;
+      height: 1.2em;
+  }
+
+
+
+
+  .main-sprite.complete-signup-icon:before {
+      background-position: -0.2em -83.4em;
+      width: 8.8em;
+      height: 13.1em;
+  }
+
+
+
+
+  .main-sprite.credit-card-icon:before {
+      background-position: -0.2em -96.9em;
+      width: 2.7em;
+      height: 2.5em;
+  }
+
+
+
+
+  .main-sprite.credit-debit-card-icon:before {
+      background-position: -0.2em -99.8em;
+      width: 2.7em;
+      height: 2.5em;
+  }
+
+
+
+
+  .main-sprite.databases-icon:before {
+      background-position: -0.2em -102.7em;
+      width: 6.5em;
+      height: 6.5em;
+  }
+
+
+
+
+  .main-sprite.de-icon:before {
+      background-position: -0.2em -109.60000000000001em;
+      width: 1.7em;
+      height: 1.2em;
+  }
+
+
+
+
+  .main-sprite.discover-icon:before {
+      background-position: -0.2em -111.2em;
+      width: 6.5em;
+      height: 4em;
+  }
+
+
+
+
+  .main-sprite.dns-records-icon:before {
+      background-position: -0.2em -115.60000000000001em;
+      width: 6.6em;
+      height: 6.6em;
+  }
+
+
+
+
+  .main-sprite.domains-backorder-icon:before {
+      background-position: -0.2em -122.60000000000001em;
+      width: 5.9em;
+      height: 6.4em;
+  }
+
+
+
+
+  .main-sprite.dropbox-icon:before {
+      background-position: -0.2em -129.39999999999998em;
+      width: 2em;
+      height: 1.7em;
+  }
+
+
+
+
+  .main-sprite.en-icon:before {
+      background-position: -0.2em -131.5em;
+      width: 1.7em;
+      height: 1.2em;
+  }
+
+
+
+
+  .main-sprite.es-icon:before {
+      background-position: -0.2em -133.1em;
+      width: 1.7em;
+      height: 1.2em;
+  }
+
+
+
+
+  .main-sprite.exellent-icon:before {
+      background-position: -0.2em -134.7em;
+      width: 6.2219999999999995em;
+      height: 6.555em;
+  }
+
+
+
+
+  .main-sprite.file-manager-icon:before {
+      background-position: -0.2em -141.7em;
+      width: 6.6em;
+      height: 6.6em;
+  }
+
+
+
+
+  .main-sprite.file-upload-icon:before {
+      background-position: -0.2em -148.7em;
+      width: 6.8em;
+      height: 6.8em;
+  }
+
+
+
+
+  .main-sprite.fr-icon:before {
+      background-position: -0.2em -155.89999999999998em;
+      width: 1.7em;
+      height: 1.2em;
+  }
+
+
+
+
+  .main-sprite.ftp-accounts-icon:before {
+      background-position: -0.2em -157.5em;
+      width: 6.8em;
+      height: 6.8em;
+  }
+
+
+
+
+  .main-sprite.google-drive-icon:before {
+      background-position: -0.2em -164.7em;
+      width: 2em;
+      height: 1.7em;
+  }
+
+
+
+
+  .main-sprite.gr-icon:before {
+      background-position: -0.2em -166.79999999999998em;
+      width: 1.7em;
+      height: 1.2em;
+  }
+
+
+
+
+  .main-sprite.guest-users-icon:before {
+      background-position: -0.2em -168.39999999999998em;
+      width: 6.390000000000001em;
+      height: 6.3950000000000005em;
+  }
+
+
+
+
+  .main-sprite.horde-icon:before {
+      background-position: -0.2em -175.2em;
+      width: 11.8em;
+      height: 4em;
+  }
+
+
+
+
+  .main-sprite.hosted-domains-icon:before {
+      background-position: -0.2em -179.6em;
+      width: 7em;
+      height: 6.3em;
+  }
+
+
+
+
+  .main-sprite.it-icon:before {
+      background-position: -0.2em -186.29999999999998em;
+      width: 1.7em;
+      height: 1.2em;
+  }
+
+
+
+
+  .main-sprite.jp-icon:before {
+      background-position: -0.2em -187.89999999999998em;
+      width: 1.7em;
+      height: 1.2em;
+  }
+
+
+
+
+  .main-sprite.mail-icon:before {
+      background-position: -0.2em -189.5em;
+      width: 9.6em;
+      height: 9.6em;
+  }
+
+
+
+
+  .main-sprite.mails-icon:before {
+      background-position: -0.2em -199.5em;
+      width: 6.6em;
+      height: 6.8em;
+  }
+
+
+
+
+  .main-sprite.mastercard-icon:before {
+      background-position: -0.2em -206.7em;
+      width: 6.5em;
+      height: 4em;
+  }
+
+
+
+
+  .main-sprite.memcached-icon:before {
+      background-position: -0.2em -211.1em;
+      width: 7.1em;
+      height: 6.5em;
+  }
+
+
+
+
+  .main-sprite.modsecurity-icon:before {
+      background-position: -0.2em -218em;
+      width: 6.4em;
+      height: 6.4em;
+  }
+
+
+
+
+  .main-sprite.mysql-icon:before {
+      background-position: -0.2em -224.79999999999998em;
+      width: 6.4em;
+      height: 6.2em;
+  }
+
+
+
+
+  .main-sprite.nl-icon:before {
+      background-position: -0.2em -231.39999999999998em;
+      width: 1.7em;
+      height: 1.2em;
+  }
+
+
+
+
+  .main-sprite.nodejs-icon:before {
+      background-position: -0.2em -233em;
+      width: 5.724em;
+      height: 6.461em;
+  }
+
+
+
+
+  .main-sprite.ok-icon:before {
+      background-position: -0.2em -239.89999999999998em;
+      width: 6.2219999999999995em;
+      height: 6.2219999999999995em;
+  }
+
+
+
+
+  .main-sprite.one-time-code-icon:before {
+      background-position: -0.2em -246.6em;
+      width: 9.6em;
+      height: 9.6em;
+  }
+
+
+
+
+  .main-sprite.outgoing-connections-icon:before {
+      background-position: -0.2em -256.59999999999997em;
+      width: 6.4em;
+      height: 6.4em;
+  }
+
+
+
+
+  .main-sprite.paypal-colored-icon:before {
+      background-position: -0.2em -263.4em;
+      width: 6.5em;
+      height: 4.0009999999999994em;
+  }
+
+
+
+
+  .main-sprite.paypal-icon:before {
+      background-position: -0.2em -267.9em;
+      width: 7.5em;
+      height: 2.5em;
+  }
+
+
+
+
+  .main-sprite.php-sendmail-icon:before {
+      background-position: -0.2em -270.8em;
+      width: 6.6em;
+      height: 6.6em;
+  }
+
+
+
+
+  .main-sprite.php-settings-icon:before {
+      background-position: -0.2em -277.8em;
+      width: 6.6em;
+      height: 6.6em;
+  }
+
+
+
+
+  .main-sprite.phpmyadmin-icon:before {
+      background-position: -0.2em -284.8em;
+      width: 6.5em;
+      height: 3.5em;
+  }
+
+
+
+
+  .main-sprite.phppgadmin-icon:before {
+      background-position: -0.2em -288.7em;
+      width: 7.3em;
+      height: 2.4em;
+  }
+
+
+
+
+  .main-sprite.postgresql-icon:before {
+      background-position: -0.2em -291.5em;
+      width: 6.9em;
+      height: 6.7em;
+  }
+
+
+
+
+  .main-sprite.pt-icon:before {
+      background-position: -0.2em -298.59999999999997em;
+      width: 1.6em;
+      height: 1.1em;
+  }
+
+
+
+
+  .main-sprite.redis-icon:before {
+      background-position: -0.2em -300.09999999999997em;
+      width: 8.097em;
+      height: 6.5em;
+  }
+
+
+
+
+  .main-sprite.registered-domains-icon:before {
+      background-position: -0.2em -307em;
+      width: 6.6em;
+      height: 6.6em;
+  }
+
+
+
+
+  .main-sprite.remote-mysql-icon:before {
+      background-position: -0.2em -314em;
+      width: 8em;
+      height: 3em;
+  }
+
+
+
+
+  .main-sprite.roundcube-icon:before {
+      background-position: -0.2em -317.4em;
+      width: 15.4em;
+      height: 4em;
+  }
+
+
+
+
+  .main-sprite.ru-icon:before {
+      background-position: -0.2em -321.8em;
+      width: 1.7em;
+      height: 1.2em;
+  }
+
+
+
+
+  .main-sprite.sales-and-billing-icon:before {
+      background-position: -0.2em -323.4em;
+      width: 6.5em;
+      height: 6.5em;
+  }
+
+
+
+
+  .main-sprite.scripting-icon:before {
+      background-position: -0.2em -330.3em;
+      width: 6.4em;
+      height: 6.4em;
+  }
+
+
+
+
+  .main-sprite.service-upgrades-icon:before {
+      background-position: -0.2em -337.09999999999997em;
+      width: 6.8em;
+      height: 6.8em;
+  }
+
+
+
+
+  .main-sprite.site-builder-icon:before {
+      background-position: -0.2em -344.3em;
+      width: 8em;
+      height: 8em;
+  }
+
+
+
+
+  .main-sprite.skrill-colored-icon:before {
+      background-position: -0.2em -352.7em;
+      width: 6.5em;
+      height: 4em;
+  }
+
+
+
+
+  .main-sprite.skrill-icon:before {
+      background-position: -0.2em -357.09999999999997em;
+      width: 7.3em;
+      height: 2.5em;
+  }
+
+
+
+
+  .main-sprite.smtp-access-icon:before {
+      background-position: -0.2em -360em;
+      width: 6.5em;
+      height: 6.8em;
+  }
+
+
+
+
+  .main-sprite.srp-icon:before {
+      background-position: -0.2em -367.2em;
+      width: 1.7em;
+      height: 1.2em;
+  }
+
+
+
+
+  .main-sprite.ssh-icon:before {
+      background-position: -0.2em -368.8em;
+      width: 6.709999999999999em;
+      height: 6.5em;
+  }
+
+
+
+
+  .main-sprite.ssl-icon:before {
+      background-position: -0.2em -375.7em;
+      width: 5.85em;
+      height: 6.618em;
+  }
+
+
+
+
+  .main-sprite.statistics-icon:before {
+      background-position: -0.2em -382.8em;
+      width: 6.5em;
+      height: 6.5em;
+  }
+
+
+
+
+  .main-sprite.stripe-icon:before {
+      background-position: -0.2em -389.7em;
+      width: 6.008em;
+      height: 2.5em;
+  }
+
+
+
+
+  .main-sprite.subaccounts-icon:before {
+      background-position: -0.2em -392.59999999999997em;
+      width: 6.359999999999999em;
+      height: 6.364em;
+  }
+
+
+
+
+  .main-sprite.subdomains-icon:before {
+      background-position: -0.2em -399.4em;
+      width: 6.7em;
+      height: 6.7em;
+  }
+
+
+
+
+  .main-sprite.supervisor-icon:before {
+      background-position: -0.2em -406.5em;
+      width: 6.055em;
+      height: 6.4799999999999995em;
+  }
+
+
+
+
+  .main-sprite.supreme-icon:before {
+      background-position: -0.2em -413.4em;
+      width: 8.6em;
+      height: 4em;
+  }
+
+
+
+
+  .main-sprite.thank-you-icon:before {
+      background-position: -0.2em -417.8em;
+      width: 24.36em;
+      height: 22.546em;
+  }
+
+
+
+
+  .main-sprite.tools-and-settings-icon:before {
+      background-position: -0.2em -440.8em;
+      width: 6.5em;
+      height: 6.5em;
+  }
+
+
+
+
+  .main-sprite.tr-icon:before {
+      background-position: -0.2em -447.7em;
+      width: 1.7em;
+      height: 1.2em;
+  }
+
+
+
+
+  .main-sprite.varnish-icon:before {
+      background-position: -0.2em -449.3em;
+      width: 6.545em;
+      height: 6.5em;
+  }
+
+
+
+
+  .main-sprite.very-bad-icon:before {
+      background-position: -0.2em -456.2em;
+      width: 6.2219999999999995em;
+      height: 6.2219999999999995em;
+  }
+
+
+
+
+  .main-sprite.very-good-icon:before {
+      background-position: -0.2em -462.9em;
+      width: 6.2219999999999995em;
+      height: 6.2219999999999995em;
+  }
+
+
+
+
+  .main-sprite.visa-icon:before {
+      background-position: -0.2em -469.59999999999997em;
+      width: 6.51em;
+      height: 3.9899999999999998em;
+  }
+
+
+
+
+  .main-sprite.vn-icon:before {
+      background-position: -0.2em -474em;
+      width: 1.7em;
+      height: 1.2em;
+  }
+
+
+
+
+  .main-sprite.vpn-access-icon:before {
+      background-position: -0.2em -475.59999999999997em;
+      width: 5em;
+      height: 6.8em;
+  }
+
+
+
+
+  .main-sprite.vpn-icon:before {
+      background-position: -0.2em -482.8em;
+      width: 5.79em;
+      height: 6.5em;
+  }
+
+
+
+
+  .main-sprite.wallet-icon:before {
+      background-position: -0.2em -489.7em;
+      width: 2.7em;
+      height: 2.5em;
+  }
+
+
+
+
+  .main-sprite.web-app-installer-icon:before {
+      background-position: -0.2em -492.59999999999997em;
+      width: 6.9em;
+      height: 6.8em;
+  }
+
+
+
+
+  .main-sprite.webmail-icon:before {
+      background-position: -0.2em -499.8em;
+      width: 6.7em;
+      height: 6.1em;
+  }
+
+
+
+
+  .main-sprite.website-speed-icon:before {
+      background-position: -0.2em -506.3em;
+      width: 12.8em;
+      height: 11.277em;
+  }
+
+
+
+
+  .main-sprite.western-union-icon:before {
+      background-position: -0.2em -518em;
+      width: 9.4em;
+      height: 2.5em;
+  }
+
+
+
+
+  .main-sprite.wire-transfer-icon:before {
+      background-position: -0.2em -520.9000000000001em;
+      width: 2.5em;
+      height: 2.5em;
+  }
+
+
+
+
+  .main-sprite.worldpay-icon:before {
+      background-position: -0.2em -523.8000000000001em;
+      width: 6.9em;
+      height: 2.5em;
+  }
+
+
+
+
+  .main-sprite.your-account-icon:before {
+      background-position: -0.2em -526.7em;
+      width: 6.5em;
+      height: 6.5em;
+  }
+
+
+
+
+
